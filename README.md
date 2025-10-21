@@ -9,5 +9,8 @@ Using **NO AI** you must __create a proper BSP (binary space partitioning) tree 
 
 Good luck! Remember that no one is actually forcing you to do this. It would be really funny and you'd also learn something if you did, though. So, ignoring the time spent on it, why not?
 
+---
+For bonus points, also write a 3D renderer using your traversal system. EVEN MORE POINTS IF IT HAS TEXTURE MAPPING!!!
+No external libraries other than ones used to do actual rendering. So, no numpy or anything like that, unless these libraries are __strictly__ required for what you're doing. Again, no loopholing this.
 
 oh yeah also I did pretty much this, but with a pretty much undocumented (and very buggy) micropython implementation on the HP Prime. ~~I did use AI for some of it though,~~ but I didn't blindly copy and paste. good luck ig lol
