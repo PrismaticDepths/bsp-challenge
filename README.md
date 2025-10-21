@@ -10,4 +10,4 @@ Using **NO AI** you must __create a proper BSP (binary space partitioning) tree 
 Good luck! Remember that no one is actually forcing you to do this. It would be really funny and you'd also learn something if you did. So, ignoring the time spent on it, why not?
 
 
-oh yeah also I did pretty much this, but with a pretty much undocumented (and very buggy) micropython implementation on the HP Prime. ~~ I did use AI for some of it though, ~~ but I didn't blindly copy and paste. good luck ig lol
+oh yeah also I did pretty much this, but with a pretty much undocumented (and very buggy) micropython implementation on the HP Prime. ~~I did use AI for some of it though,~~ but I didn't blindly copy and paste. good luck ig lol
